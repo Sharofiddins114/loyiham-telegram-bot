@@ -1,0 +1,12 @@
+2025-04-13T12:57:58.148Z [ERROR]: Sheetga yozishda xato: You must call `doc.loadInfo()` before accessing this property
+2025-04-13T12:57:58.151Z [ERROR]: Sheetga yozishda xato: You must call `doc.loadInfo()` before accessing this property
+2025-04-13T12:57:58.152Z [ERROR]: Sheetga yozishda xato: You must call `doc.loadInfo()` before accessing this property
+2025-04-13T12:57:58.152Z [ERROR]: Video qayta ishlashda xato: You must call `doc.loadInfo()` before accessing this property
+2025-04-13T12:57:58.153Z [ERROR]: Video qayta ishlashda xato: You must call `doc.loadInfo()` before accessing this property
+2025-04-13T12:57:58.153Z [ERROR]: Video qayta ishlashda xato: You must call `doc.loadInfo()` before accessing this property
+2025-04-13T12:57:58.698Z [INFO]: Google Sheets muvaffaqiyatli ulandi
+2025-04-13T12:57:58.701Z [INFO]: Server 3000-portda ishga tushdi
+2025-04-13T12:57:58.701Z [INFO]: Webhook manzil: https://your-bot.onrender.com/webhook
+2025-04-13T13:06:06.651Z [INFO]: Google Sheets muvaffaqiyatli ulandi
+2025-04-13T13:06:06.658Z [INFO]: Server 3000-portda ishga tushdi
+2025-04-13T13:06:06.658Z [INFO]: Webhook manzil: https://your-bot.onrender.com/webhook
